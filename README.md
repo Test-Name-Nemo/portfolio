@@ -1,5 +1,5 @@
-# Обо мне
-(![Фото не моё](img/Ben-Stiller-with-Symmetrical-Face-58616.jpg))
+# Обо мне   фото не моё..
+![Фото не моё](img/Ben-Stiller-with-Symmetrical-Face-58616.jpg)
 ### Навыки
 ### Разработка
 ### Умения
