@@ -29,7 +29,7 @@ Python web development, ООП, CI/CD, Docker, JSON, API, PostgreSQL, Nginx, Dja
 -![Свидетельство](img/Python-web-development.png)
 -![Свидетельство](img/Django-crete-backend-app.png)
 
-### Опыт предыдущих мест моего труда.
+### Опыт c предыдущих мест, моего труда.
 
 ![Rezume](img/2025-01-17_12-45-16.png)
 
