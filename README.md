@@ -29,6 +29,8 @@ Python web development, ООП, CI/CD, Docker, JSON, API, PostgreSQL, Nginx, Dja
 ![Свидетельство](img/sertificate/Python_в_веб-разработке.jpg)
 ![Свидетельство](img/sertificate/Основы_языка_программирования.jpg)
 ![Свидетельство](img/sertificate/Свидетельство-об-обучении.jpg)
+![Свидетельство](img/sertificate/Итог_диплом.jpg)
+
 
 ### Опыт c предыдущих мест, моего труда.
 
