@@ -16,7 +16,7 @@
 
 ### - Мои инструменты для разработки:
 - Python web development - обучаюсь с 2024 года
-- ООП, GitHub, API, ORM, SQL, PostgreSQL, Docker, Сelery, Nginx, Redis, Ubuntu, CI/CD, Django, Rest Framework, Flacks, FastAPI.
+- ООП, GitHub, API, ORM, SQL, PostgreSQL, Docker, Сelery, Nginx, Redis, Ubuntu, CI/CD, Django, Rest Framework, Flask, FastAPI.
 
 До обучения в ООО Нетологи, работал с css в системе WordPress, участвовал в создании сайта компании и поддерживал его в рабочем состоянии. Дизайн сайта был на мне, изучил Photoshop. Так же внедрил на сайт несколько "фичи"
  
